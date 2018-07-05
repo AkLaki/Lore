@@ -135,6 +135,7 @@
 }
 .large p, .text p {
   color:#000;
+  float: left;
 }
 .large h3, h4 {
   font-weight: 600;
